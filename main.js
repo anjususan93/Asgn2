@@ -19,7 +19,6 @@ y += speed;
 
 document.getElementById('pacman').style.left = x + 'px';
 document.getElementById('pacman').style.top = y + 'px';
-});
 
 // Having music//
 var audio = document.getElementByld("audio");
