@@ -1,0 +1,23 @@
+/* Pac starts */
+body {
+    height: 100vh;
+    display: flex;
+    background-color: black;
+}
+
+#pacman {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#audio {
+    display: none;
+}
+
+
+/* Pac ends */
+
+
+
+
