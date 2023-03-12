@@ -1,7 +1,7 @@
 /* Pac starts */
 body {
     height: 100vh;
-    display: flex;
+    Width: 100vh;
     background-color: black;
 }
 
@@ -11,13 +11,7 @@ body {
     left: 0;
 }
 
-#audio {
-    display: none;
-}
-
-
 /* Pac ends */
-
 
 
 
