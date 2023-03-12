@@ -22,5 +22,4 @@ document.getElementById('pacman').style.top = y + 'px';
 });
 
 // Having music//
-audioElement.play();
 document.querySelector("audio").play();
