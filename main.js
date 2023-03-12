@@ -22,5 +22,6 @@ document.getElementById('pacman').style.top = y + 'px';
 });
 
 // Having music//
-document.querySelector("audio").play();
-document.getElementById("audio").loop = true;
+var audio = document.getElementByld("audio");
+audio.play();
+audio.loop = true;
