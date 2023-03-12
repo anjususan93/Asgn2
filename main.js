@@ -25,3 +25,4 @@ document.getElementById('pacman').style.top = y + 'px';
 var audio = document.getElementByld("audio");
 audio.play();
 audio.loop = true;
+});
